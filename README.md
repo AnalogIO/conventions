@@ -1,0 +1,4 @@
+conventions
+===========
+
+Conventions and stuff
