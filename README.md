@@ -1,12 +1,12 @@
 This repository represents the coding conventions and other practical information for contributing to AnalogIO.
 
-
 Conventions
 ===========
 * Which DB to use?
 * Where to place what on the server?
 * Coding style
 * List of current projects
+* Work flow?
 
 Perks
 ===========
