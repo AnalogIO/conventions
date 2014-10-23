@@ -3,7 +3,8 @@ This repository represents the coding conventions and other practical informatio
 Conventions
 ===========
 * Which DB to use?
-* Where to place what on the server?
+### Where to place what on the server?
+Projects/repositories should be placed on the server in “/var/www/projectName/”. A roresponding .config file should then be placed in “/etc/nginx/sites-available/projectName.config” and symlinked with ```$ sudo ln -s /etc/nginx/sites-available/filename /etc/nginx/sites-enabled/filename```. To restart the nginx server now run ```$ sudo service nginx restart ```
 * Coding style
 * List of current projects
 * Work flow?
