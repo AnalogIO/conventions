@@ -11,7 +11,8 @@ Conventions
 Perks
 ===========
 While coding on something relevant for AnalogIO, Analog provides free coffee.
+You get to work on interesting projects, using languages and frameworks of your own choice.
 
-Meeting
+Meetings
 ===========
 In the fall semester of 2014, we meet every Thursday from 16:00 until whenever.
